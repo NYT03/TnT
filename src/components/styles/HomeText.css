@@ -1,0 +1,116 @@
+ 
+  .property-1-=-default {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  .text-1 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-2 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .property-1-=-variant-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  .text-3 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-4 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .property-1-=-variant-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  .text-5 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-6 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .property-1-=-variant-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  .text-7 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-8 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .property-1-=-variant-5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  .text-9 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-1-0 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+  }

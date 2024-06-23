@@ -1,0 +1,111 @@
+.login {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .login .div {
+    background-color: #ffffff;
+    height: 945px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .login .overlap-group {
+    height: 945px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 600px;
+  }
+  
+  .login .rectangle {
+    height: 90px;
+    left: 19px;
+    object-fit: cover;
+    position: absolute;
+    top: 22px;
+    width: 90px;
+  }
+  
+  .login .character-ikbal-4 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .login .text-wrapper-2 {
+    color: #ff0000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 96px;
+    font-weight: 400;
+    height: 74px;
+    left: 860px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 212px;
+    white-space: nowrap;
+    width: 376px;
+  }
+  
+  .login .input-field-instance {
+    left: 797px !important;
+    position: absolute !important;
+    top: 343px !important;
+  }
+  
+  .login .design-component-instance-node {
+    color: #e40606a8 !important;
+  }
+  
+  .login .input-field-2 {
+    left: 797px !important;
+    position: absolute !important;
+    top: 459px !important;
+  }
+  
+  .login .submit-instance {
+    background-color: #ff5841 !important;
+    left: 959px !important;
+    position: absolute !important;
+    top: 575px !important;
+  }
+  
+  .login .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    height: 35px;
+    left: 905px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 650px;
+    white-space: nowrap;
+    width: 213px;
+  }
+  
+  .login .text-wrapper-4 {
+    color: #012aff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 32px;
+    left: 1127px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    text-decoration: underline;
+    top: 650px;
+    white-space: nowrap;
+    width: 80px;
+  }
+  
