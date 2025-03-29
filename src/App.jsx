@@ -12,7 +12,7 @@ function App() {
               <ActiveProvider>
         {currentUser ? (
           <Routes>
-            <Route path="/Page" element={<Page />} />
+            <Route path="/" element={<Page />} />
           </Routes>
         ) : (
           <Routes>
