@@ -3,9 +3,9 @@ import { ActiveProvider } from './components/ActivePageContext';
 import Login from "./components/Login";
 import Page from "./components/Page";
 import Signup from "./components/Signup";
-import { useAuth } from "./contexts/AuthContext";
 function App() {
-  const { currentUser } = useAuth();
+  // const { currenUser } = useAuth();
+  const currentUser  = true;
 
   return (
       <>
